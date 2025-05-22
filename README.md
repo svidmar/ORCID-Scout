@@ -60,7 +60,7 @@ Results can be downloaded as a CSV file.
 
 ## Notes
 
-- The tool respects a maximum of 3 requests per second to the Scopus API.
+- The tool respects a maximum of 3 requests per second to the Scopus API, however note the weekly quota.
 - The ORCID iDs retrieved from Scopus may not always be accurate. Manual verification is recommended.
 
 ## Author
