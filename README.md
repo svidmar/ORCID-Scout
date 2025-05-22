@@ -1,5 +1,5 @@
 # ORCID Scout
-![ORCID Scout logo](orcid_scout_logo.png)
+<img src="orcid_scout_logo.png" alt="ORCID Scout logo" width="200"/>
 
 ORCID Scout is a Streamlit application designed to identify ORCID iDs based on Scopus Author IDs and verify institutional affiliation using a ROR ID.
 
