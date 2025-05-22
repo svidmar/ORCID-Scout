@@ -24,7 +24,6 @@ with st.sidebar:
     target_ror = st.text_input("Institution ROR ID (optional)", placeholder="https://ror.org/03yrm5c26")
     st.markdown("---")
     st.markdown("🔗 [Scopus API Rate Limits](https://dev.elsevier.com/api_key_settings.html)", unsafe_allow_html=True)
-    st.image("orcid_scout_logo.png", width=200)
 
 # Description and instructions
 with st.expander("ℹ️ About this tool"):

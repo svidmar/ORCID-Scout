@@ -18,6 +18,13 @@ ORCID Scout is a Streamlit application designed to identify ORCID iDs based on S
 ```bash
 pip install streamlit pandas requests
 ```
+## Access Notes
+
+To use this tool, you must have:
+
+- An active **Scopus subscription**
+- A valid **Scopus API key** from [Elsevier Developer Portal](https://dev.elsevier.com/)
+- Access to the Scopus API from a **whitelisted IP address** (typically your institution’s IP range)
 
 ## Usage
 
